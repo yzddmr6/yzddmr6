@@ -4,7 +4,7 @@
 * Team: 
   [@L3H_Sec](https://l3hsec.com/)
   [@AntSwordProject](https://github.com/AntSwordProject)
-* Blog: http://yzddmr6.tk/
+* Blog: https://yzddmr6.com/
 * 一个交流知识的小圈子: https://t.zsxq.com/FA6urjI
 
 ### Github stats
