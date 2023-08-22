@@ -3,8 +3,8 @@
 <meta name="referrer" content="no-referrer" />
 
 * My Team: 
-  * [L3H_Sec](https://l3hsec.com/)  战队创始人
-  * [AntSwordProject](https://github.com/AntSwordProject)  项目组核心成员
+  * [L3H_Sec](https://l3hsec.com/)
+  * [AntSwordProject](https://github.com/AntSwordProject)
 * 我的博客: https://yzddmr6.com
 * 一个交流知识的小圈子: [我的知识星球](https://t.zsxq.com/FA6urjI)
 * 欢迎关注我的公众号：网络安全回收站
