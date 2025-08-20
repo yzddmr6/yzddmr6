@@ -21,7 +21,3 @@
 
 ## Github stats
 ![yzddmr6](https://github-readme-stats.vercel.app/api?username=yzddmr6&show_icons=true&theme=tokyonight)
-
-
-### Visitors
-![yzddmr6](https://profile-counter.glitch.me/yzddmr6/count.svg)
